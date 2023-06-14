@@ -1,0 +1,23 @@
+.btn:hover {
+color: palevioletred;
+background-color: black;
+}
+
+.btn {
+    background-color: rgb(238, 255, 0);
+    color: aliceblue;
+}
+
+.babes
+{
+    background-color: aqua !important; 
+}
+
+.babes2{
+    width: 40px;
+    height: 40px;
+}
+
+.babes3{
+    
+}
